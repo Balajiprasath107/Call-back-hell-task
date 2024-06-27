@@ -12,12 +12,11 @@ div{
     align-items: center;
     justify-content: center;
     color: rgb(0, 8, 255);
-    border: 1px solid magenta;
     font-size: xx-large;
     margin: auto 500px;
     padding: 2em 0;
     border-radius: 2em;
-    border:5px solid;
+    border:10px solid;
     border-color: orange white green white;
     background-color: white;
 }
